@@ -1,3 +1,6 @@
 body {
   background-color: orange;
 }
+font {
+  ascent-override: 20px;
+}
